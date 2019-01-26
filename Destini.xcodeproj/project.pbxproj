@@ -107,7 +107,7 @@
 				TargetAttributes = {
 					EBB1C73A1B9633A60011F5C3 = {
 						CreatedOnToolsVersion = 6.4;
-						DevelopmentTeam = N3W42HA5K3;
+						DevelopmentTeam = 5GATU7QGP2;
 						LastSwiftMigration = 0900;
 					};
 				};
@@ -283,11 +283,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = N3W42HA5K3;
+				DEVELOPMENT_TEAM = 5GATU7QGP2;
 				INFOPLIST_FILE = Destini/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.SambaBlondieSpeaks.Destini.iOS;
+				PRODUCT_BUNDLE_IDENTIFIER = com.SambaBlondie.Destini.iOS;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Off;
 				SWIFT_VERSION = 4.2;
@@ -298,11 +298,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = N3W42HA5K3;
+				DEVELOPMENT_TEAM = 5GATU7QGP2;
 				INFOPLIST_FILE = Destini/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.SambaBlondieSpeaks.Destini.iOS;
+				PRODUCT_BUNDLE_IDENTIFIER = com.SambaBlondie.Destini.iOS;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Off;
 				SWIFT_VERSION = 4.2;
